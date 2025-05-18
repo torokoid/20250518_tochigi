@@ -73,7 +73,7 @@ left:0;
 z-index:-1;
 width:100%;
 height:100vh;
-background:url(https://torokoid.github.io/20250518_tochigi/20250518_015.JPG) center/cover no-repeat;
+background:url(https://torokoid.github.io/20250518_tochigi/20250518_012.JPG) center/cover no-repeat;
 -webkit-background-size:cover;/*Android4*/
 }
 
