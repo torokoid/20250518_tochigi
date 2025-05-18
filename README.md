@@ -145,7 +145,7 @@ p.note { display: none; }
 <h2><span class="yellow">先日開花した薔薇が満開</span></h2>
 <a href="20250518_001.JPG" target="_blank"><img src="20250518_001.JPG" alt="サンプル画像" width="900" /></a>
     
-<h2><span class="yellow">お花屋さんでも綺麗な花達が満開</span></h2>
+<h2><span class="yellow">お花屋さんでも綺麗なお花達が満開</span></h2>
 <a href="20250518_002.JPG" target="_blank"><img src="20250518_002.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250518_003.JPG" target="_blank"><img src="20250518_003.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250518_004.JPG" target="_blank"><img src="20250518_004.JPG" alt="サンプル画像" width="900" /></a>
@@ -163,7 +163,7 @@ p.note { display: none; }
 <a href="20250518_011.JPG" target="_blank"><img src="20250518_011.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250518_012.JPG" target="_blank"><img src="20250518_012.JPG" alt="サンプル画像" width="900" /></a>
     
-<h2><span class="yellow">タイから来た姪っ子、日本でメガネを作りました。まだ10代！</span></h2>
+<h2><span class="yellow">タイから来た姪っ子、日本でメガネを作りました。<br>日本語がわからないのに良く頑張りました、まだ10代！</span></h2>
 <a href="20250518_013.JPG" target="_blank"><img src="20250518_013.JPG" alt="サンプル画像" width="900" /></a>
 
 <h2><span class="yellow">17日は雨の1日、庭のお花達もしっとり</span></h2>
