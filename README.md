@@ -183,8 +183,8 @@ p.note { display: none; }
 
    
 <br><br>
-<h2><span class="yellow">今日のBGMは Melhores Musicas Pop Internacionais 2025</span></h2>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Ay7hGo9u2mo?si=jW8dObd2rliWJ-90" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
+<h2><span class="yellow">今日のBGMは 動画が非公開だったので Air Supplyに差し替え May19</span></h2>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/62kTpAX3Hdc?si=EBG1Fbvq8y2MDmXF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
 
 
 <!--
